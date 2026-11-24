@@ -23,7 +23,7 @@ Desarrollado y mantenido por la division de ingenieria de ingresos y medios de p
 Requiere unicamente Python 3.8 o superior, sin paquetes externos.
 
 ```bash
-git clone https://github.com/TAVARDT-Mexico/ads-roi-intelligence-mx.git
+git clone https://github.com/TAVARDT/ads-roi-intelligence-mx.git
 cd ads-roi-intelligence-mx
 python roi_engine.py -spend 10000 -revenue 50000 -target-spend 25000
 ```
