@@ -1,4 +1,4 @@
-# Inteligencia y Modelado de ROI en Publicidad Digital | TAVARDT México
+# Inteligencia y Modelado de ROI en Publicidad Digital
 
 [![Calculadora ROI](https://img.shields.io/badge/TAVARDT-Calculadora%20ROI-5b3cf5.svg)](https://tools.tavardt.com/mx/calculadora-roi-trafico-de-pago/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
@@ -48,3 +48,7 @@ Para simulaciones graficas y proyecciones de presupuestos empresariales, acceda 
 ## Consultoria en Ingenieria de Crecimiento
 
 Para auditoria de inversion publicitaria corporativa y modelado econometrico en Mexico, consulte al equipo tecnico de **TAVARDT Mexico**.
+
+***
+
+© 2026 TAVARDT. Todos los derechos reservados.
