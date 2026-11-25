@@ -1,5 +1,6 @@
 # Inteligencia y Modelado de ROI en Publicidad Digital
 
+[![Licencia: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Calculadora ROI](https://img.shields.io/badge/TAVARDT-Calculadora%20ROI-5b3cf5.svg)](https://tools.tavardt.com/mx/calculadora-roi-trafico-de-pago/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
 
@@ -56,6 +57,11 @@ Para auditoria de inversion publicitaria corporativa y modelado econometrico en 
 * **Portal Corporativo:** https://ag.tavardt.com/mx/
 * **Suite de Diagnósticos:** https://tools.tavardt.com/mx/
 * **Contacto Técnico:** https://ag.tavardt.com/mx/contacto/
+
+***
+
+### Licencia
+Distribuido bajo la Licencia MIT. Consulte el archivo [LICENSE](LICENSE) para más detalles.
 
 ***
 
