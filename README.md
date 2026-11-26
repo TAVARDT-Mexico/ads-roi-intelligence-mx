@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://ag.tavardt.com/mx/">
+    <img src="https://ag.tavardt.com/img/tavardt-banner.png" alt="TAVARDT" width="1024" />
+  </a>
+</p>
+
 # Inteligencia y Modelado Matemático de ROI en Tráfico de Pago
 
 [![Calculadora ROI](https://img.shields.io/badge/TAVARDT-Calculadora%20ROI-5b3cf5.svg)](https://tools.tavardt.com/mx/calculadora-roi-trafico-de-pago/)
